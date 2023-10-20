@@ -1,5 +1,5 @@
 #!/bin/bash
 
-sudo mv * ../
+cp -r * ../
 
 echo "Documents Moved Successfully!"
